@@ -1,6 +1,12 @@
 """
-Made by Gainsboroow 
+Sudoku Solver
+Created by Gainsboroow 
 Github : https://github.com/Gainsboroow
+Github Repository : https://github.com/Gainsboroow/Sudoku-Solver
+
+How to use : Enter the numbers in the grid. 
+Press F5 and see the results. 
+Press F4 to erase the numbers.
 """
 
 from tkinter import *
